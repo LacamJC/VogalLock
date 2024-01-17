@@ -5,9 +5,9 @@ Este é um projeto que utiliza JS para análisar a palavra ou frase, e demonstra
 
 ## Tecnologias
 
--HTML
--CSS
--JAVASCRIPT
+- CSS
+- HTML
+- JAVASCRIPT
 
 ## Screenshots
 

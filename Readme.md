@@ -4,6 +4,7 @@
 Este é um projeto que utiliza JS para análisar a palavra ou frase, e demonstra quais vogais ela possui
 
 ## Tecnologias
+
 -HTML
 -CSS
 -JAVASCRIPT
